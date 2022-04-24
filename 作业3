@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>网页设计第三次作业</title>
+</head>
+<body>
+   <h1>Planets data</h1>
+   <input type="text" value="Search query" size="15">
+   <input type="chechbox" value="Go!" size="1">
+   <img src="https://img0.baidu.com/it/u=2240948826,2935854976&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500" width="50">
+   <table style="width:100">
+    <caption>Data about the planets of solar system facts taken from <a href="Nasa's Planetary Fact Sheet-Metric">Nasa's Planetary Fact Sheer-Metric</a></caption>
+    <tr>
+        <style>
+            table,th,td{
+                border:0.5px solid black;
+            }
+            th, td {
+                padding: 20px
+            }
+        </style>
+        <th style="background-color:aliceblue"></th>
+        <th style="background-color:aliceblue">Name</th>
+        <th style="background-color:aliceblue">Mass(10<sup>24</sup>kg)</th>
+        <th style="background-color:aliceblue">Diameter(kg)</th>
+        <th style="background-color:aliceblue">Density</th>
+        <th style="background-color:aliceblue">Gravity(m/s<sup>2</sup>)</th>
+        <th style="background-color:aliceblue">Length of day(hours)</th>
+        <th style="background-color:aliceblue">Distance from Sun(10<sup>6</sup>km)</th>
+        <th style="background-color:aliceblue">Mean temperature(<sup>.</sup>C)</th>
+        <th style="background-color:aliceblue">Number of moons</th>
+        <th style="background-color:aliceblue">Notes</th>
+    </tr>
+    <tr>
+        <th rowspan="4"><b>Terrestial planets</b></th>
+        <td>Mercury</td>
+        <td>0.77</td>
+        <td>4,673</td>
+        <td>3648</td>
+        <td>3.7</td>
+        <td>4728.9</td>
+        <td>34</td>
+        <td>345</td>
+        <td>3</td>
+        <td>Closest to the Sun</td>
+    </tr>
+    <tr>
+        <td>Venus</td>
+        <td>4.78</td>
+        <td>3.48</td>
+        <td>34858</td>
+        <td>4355</td>
+        <td>5.9</td>
+        <td>4385</td>
+        <td>435</td>
+        <td>437</td>
+        <td>434</td>
+    </tr>
+    <tr>
+        <td>Earth</td>
+        <td>5.89</td>
+        <td>4353</td>
+        <td>4.443</td>
+        <td>4839</td>
+        <td>3445</td>
+        <td>5.384</td>
+        <td>4325</td>
+        <td>4</td>
+        <td>Our world</td>
+    </tr>
+    <tr>
+        <td>Mars</td>
+        <td>5.7837</td>
+        <td>23843</td>
+        <td>3472</td>
+        <td>32827</td>
+        <td>3829</td>
+        <td>384</td>
+        <td>3273</td>
+        <td>4</td>
+        <td>The red planet</td>
+    </tr>
+    <tr>
+        <th rowspan="4"><b>Jovian planets</b></th>
+        <td rowspan="2"><b>Gas giants</b></td>
+        <td><b>Jupiter</b></td>
+        <td>324453</td>
+        <td>3534</td>
+        <td>35346</td>
+        <td>2344</td>
+        <td>4355</td>
+        <td>45</td>
+        <td>2</td>
+        <td>The largest planet</td>
+    </tr>
+    <tr>
+        <td><b>Saturn</b></td>
+        <td>34</td>
+        <td>43455</td>
+        <td>435</td>
+        <td>632</td>
+        <td>3456</td>
+        <td>24234</td>
+        <td>244</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2"><b>Ice giants</b></td>
+        <td><b>Uranus</b></td>
+        <td>344545</td>
+        <td>67</td>
+        <td>5467</td>
+        <td>456</td>
+        <td>3456</td>
+        <td>367</td>
+        <td>345</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><b>Neptune</b></td>
+        <td>345</td>
+        <td>4543</td>
+        <td>2678</td>
+        <td>2466</td>
+        <td>2357</td>
+        <td>56</td>
+        <td>4</td>
+        <td></td>
+    </tr>
+    <tr>
+        <th colspan="2"><b>Dwarf planets</b></th>
+        <td><b>Pluto</b></td>
+        <td>0.0434</td>
+        <td>3,56</td>
+        <td>245</td>
+        <td>23534</td>
+        <td>2444</td>
+        <td>34</td>
+        <td>3445</td>
+        <td>Declassified as a planet in 2006,but this <a href="remains controversial">remains controversial</a></td>
+    </tr>
+</table>
+</body>
+</html>
