@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>网页设计与制作第一次作业t</title>
+</head>
+<body>
+   <h1>sample heading</h1>
+   <a href="#B">jump to bottom</a>
+   <hr>
+   <br>
+   <h1 style="font-size:40px"><b>paragragh</b></h1>
+   <p>paragraph1</p>
+   <p>paragragh2 is a example about poem problem
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pre tag pair solves<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the poem problem<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of H T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M L</p>
+   <H3 style="font-size:20px"><B>text formating</B></H3>
+   <p><i>emphasize</i> looks like with <i>italic</i><br>
+<b style="font-size:15px">Bold</b> looks like <b style="font-size:15px">Strong</b><br>
+<mark>highlight</mark> small <del>delete</del> <ins>insert</ins> <sub>subscript</sub><sup> subscript</sup></p>
+<H3 style="font-size:20px"><B>quote</B></H3>
+<p><abbr title="html">HTML</abbr><br>
+<i>Hangzhou China</i><br>
+<bdo dir="rtl">hangzhou china</bdo></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a block to quote</p>
+<p><i>Bible </i>Jesus said "forgive!"</p>
+<H3 style="font-size:20px"><B>List</B></H3>
+      <dd><li style="list-style-type:circle">list1</li></dd>
+     <dd><li style="list-style-type:circle">list2</li></dd>
+<ol type="I" start="3">
+    <li>Zhejiang</li>
+</ol>
+<dd><li style="list-style-type:circle;">Hangzhou</li></dd>
+<dd><li style="list-style-type:circle;">Wenzhou</li></dd>
+<ol type="I" start="4">
+    <li>Peking</li>
+</ol>
+<p>Asia<br>
+   <dd>China</dd><br>
+Erope<br>
+<dd>France</dd>
+</p>
+<H3 style="font-size:20px"><B>Link</B></H3>
+<a href="#B">google local file</a>
+<h3 style="font-size:30px"><b>Bottom</b></h3>
+</body>
+</html>
