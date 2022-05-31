@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style type="text/css">
+    body{
+    /*background-color:#6CF;*/
+    background-image: url(https://img0.baidu.com/it/u=745350501,2564481808&fm=253&fmt=auto&app=138&f=JPEG?w=780&h=366);
+    background-attachment: fixed;
+    margin-right:35%;
+    }
+    .txt{
+        letter-spacing: 20px;
+    }
+    p{
+        text-align:center;margin-top: -5%;
+    }
+    div{
+        margin:50%;
+        
+    }
+    </style>
+    <img src="https://img0.baidu.com/it/u=411488710,1412293365&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=375" width="100";><br/>
+<p style="color:aqua"><b>Bing</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>picture &nbsp;&nbsp;&nbsp;&nbsp;video &nbsp;&nbsp;&nbsp;&nbsp;
+    <select name="cars" style="color:aqua;border:0px">
+        <option value="more">more</option>
+        <option value="map">map</option>
+        <option value="news">news</option>
+    </select>
+</b></p>
+<div id="box">
+    <input type="search"name="search"placeholder="搜索"size="25">
+    <div id="search"></div>
+</div>
+<body>
+</body>
+</html>
